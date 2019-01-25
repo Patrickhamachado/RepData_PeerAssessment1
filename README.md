@@ -1,7 +1,7 @@
 
 This repo is intended to complete the course project 1, of the second week of the [Coursera Reproducible Research ](https://www.coursera.org/learn/reproducible-research/peer/gYyPt/course-project-1) course.
 
-The code with all the analysis is in the **PA1_template.Rmd** file.
+The code with all the analysis is in the **PA1_template.Rmd** / **PA1_template.md** files.
 
 *Patrick Machado*
 
